@@ -1,7 +1,7 @@
 # Titan Genesis
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://standardjs.com/)
 
-** Titan Genesis - The multiverse awaits.
+**Titan Genesis - The multiverse awaits.
 Navigate the multiverse in explore mode or enjoy a four chapter story for an epiphany at the end.**
 
 This project is a fork and modification of: https://github.com/jesuisundev/acrossthemultiverse?tab=readme-ov-file 
