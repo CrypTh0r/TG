@@ -1,8 +1,6 @@
 /*
-just force myself to handle fucking mobile devices.
 this is a rewrite of http://mese79.github.io/TouchControls/
-it's working but its shit, make it better before using it
-i hate mobile devices with a fierce passion of a millions suns
+mobile controls
  */
 
 export default class RotationPad {
