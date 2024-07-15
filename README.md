@@ -1,19 +1,12 @@
-![Across The Multiverse](https://across-multiverse.com/preview.jpg)
-
-# Across The Multiverse
+# Titan Genesis
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://standardjs.com/)
 
-**An in-browser, freely explorable, 3D game across infinite universes procedurally generated.
-Go from universe to universe and discover the origin of everything.
-A four chapter story with an epic revelation at the end.**
+** Titan Genesis - The multiverse awaits.
+Navigate the multiverse in explore mode or enjoy a four chapter story for an epiphany at the end.**
 
-https://across-multiverse.com/
-
-
-A blog post explaining how everything works is available [here](https://www.jesuisundev.com/en/i-built-the-entire-universe-in-javascript/) !
+This project is a fork and modification of: https://github.com/jesuisundev/acrossthemultiverse?tab=readme-ov-file 
 
 # License
-
 
 ## Source Code
 
@@ -21,11 +14,11 @@ Under [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause).
 
 ## Music
 
-All musics are owned by artists (see list below) and are used here under 
+All music is owned by artists (see list below) and is used here under 
 [Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)](https://creativecommons.org/licenses/by-nc-sa/3.0/) license
 
 
-**You can't use the musics for commercial use and/or without mentioning the following artists**
+**You can't use the music for commercial use and/or without mentioning the following artists**
 
 - Transcendent - Joel Nielsen
 - I Walk With Ghosts - Scott Buckley
@@ -33,12 +26,6 @@ All musics are owned by artists (see list below) and are used here under
 - Celestial - Scott Buckley
 - Omega - Scott Buckley
 - Into the Night - Melodysheep
-
-## Footage
-
-Under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-
-**You can use footage of the game for any use but you must mention this project with the following link : https://across-multiverse.com/**
 
 # Install
 
@@ -57,11 +44,3 @@ npm start
 ```
 npm run-script build
 ```
-
-# Contributing
-
-Across The Multiverse is an **Open Source Project**. This means that:
-
-> Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit. This project is more a fun experience than a standard guarded open source project.
-
-Every commit on the main branch automatically deploy a new build on [cloudflare pages](https://pages.cloudflare.com/) which is accesible at https://across-multiverse.com/
