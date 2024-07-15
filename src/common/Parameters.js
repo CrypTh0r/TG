@@ -86,7 +86,7 @@ export default class Parameters {
         "EPIPHANY",
         "No one knows how Titan began the forge",
         "But we understand its continuous act",
-        "Every universe has its origin within the blackhole of another",
+        "Every universe has its origin within the black hole of another",
         "These nascent universes mold their laws of physics to ensure their own survival",
         "The more they create black holes, the more they create nascent universes",
         "Which, in turn, spawn more black holes, perpertuating the cycle",
