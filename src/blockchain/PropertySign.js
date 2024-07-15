@@ -8,7 +8,7 @@ export default class PropertySign {
 
         this.text = {
             universeNumber: '0001',
-            owner: 'vooodoo.eth',
+            owner: 'Titan',
             metadata: {
                 type: 'Borealis (60%)',
                 age: 'Child | ~1T year (40%)',
