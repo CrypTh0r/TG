@@ -89,7 +89,7 @@ export default class Parameters {
         "Every universe has its origin within the black hole of another",
         "These nascent universes mold their laws of physics to ensure their own survival",
         "The more they create black holes, the more they create nascent universes",
-        "Which, in turn, spawn more black holes, perpertuating the cycle",
+        "Which, in turn, spawn more black holes, perpetuating the cycle",
         "Sculpting reality as we know it",
         "An infinite multiverse governed by Titan's design",
         "The eternal loop of all existence"
