@@ -4,7 +4,8 @@
 **Titan Genesis - The multiverse awaits.
 Navigate the multiverse in explore mode or enjoy a four chapter story for an epiphany at the end.**
 
-This project is a fork and modification of: https://github.com/jesuisundev/acrossthemultiverse?tab=readme-ov-file 
+Titan Genesis is a fork and modification of https://github.com/jesuisundev/acrossthemultiverse?tab=readme-ov-file and it is in no way involved with or supported by the creators of https://github.com/jesuisundev/acrossthemultiverse?tab=readme-ov-file 
+
 
 # License
 
