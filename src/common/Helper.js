@@ -26,7 +26,7 @@ export default class Helper {
     return renderResolution
   }
 
-  // i'm lazy, we could refactor some code and avoid globals
+  // could refactor some code and avoid globals
   setDefaultGlobal () {
     // tochange
     window.isDebugMode = false
