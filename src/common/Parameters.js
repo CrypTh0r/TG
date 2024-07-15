@@ -60,39 +60,39 @@ export default class Parameters {
     this.story = {
       chapterone: [
         "TRANSCENDENCE<br /><span class='chapter'>chapter 1<br/><strong>- The Known Universe -</strong></span>",
-        "You are the pioneer of the human race",
-        "Find a supermassive black hole and go beyond our universe",
+        "You are the first being to step beyond the creation of Titan",
+        "Find a supermassive black hole to depart from our universe",
         "Epiphany awaits"
       ],
       chaptertwo: [
-        "WONDER<br /><span class='chapter'>chapter 2<br/><strong>- Epsilon Aristaeus -</strong></span>",
+        "ILLUMINATION<br /><span class='chapter'>chapter 2<br/><strong>- Epsilon Aristaeus -</strong></span>",
         "Physics laws have slightly changed",
         "Find a supermassive black hole and go to the next universe",
-        "Epiphany awaits"
+        "Discovery is imminent"
       ],
       chapterthree: [
         "FILAMENTS<br /><span class='chapter'>chapter 3<br/><strong>- Ursa Borysthenis -</strong></span>",
         "Physics laws have greatly changed",
-        "Find a supermassive black hole and go to the next universe",
-        "Epiphany awaits"
+        "Find a supermassive black hole and proceed to the upcoming universe",
+        "Realization lies ahead"
       ],
       chapterfour: [
-        "FRONTIERS<br /><span class='chapter'>chapter 4<br/><strong>- Unknown Universe -</strong></span>",
+        "PERIPHERIES<br /><span class='chapter'>chapter 4<br/><strong>- Unknown Universe -</strong></span>",
         "Physics laws have heavily changed",
-        "You are close to the origin",
-        "Epiphany awaits"
+        "You are on the cusp of genesis, close to Titan",
+        "The revelation is near"
       ],
       epiphany: [
         "EPIPHANY",
-        "No one knows how it started",
-        "But we know how it is",
-        "Every universe is created within the blackhole of another",
-        "These baby universes change their physics laws to favor their own survival",
-        "The more they create black holes, the more they create baby universes",
-        "Which will create more black holes to create more baby universes",
-        "Producing reality as we know it",
-        "An infinite multiverse following the perpetual law of evolution",
-        "The eternal loop of everything"
+        "No one knows how Titan began the forge",
+        "But we understand its continuous act",
+        "Every universe has its origin within the blackhole of another",
+        "These nascent universes mold their laws of physics to ensure their own survival",
+        "The more they create black holes, the more they create nascent universes",
+        "Which, in turn, spawn more black holes, perpertuating the cycle",
+        "Sculpting reality as we know it",
+        "An infinite multiverse governed by Titan's design",
+        "The eternal loop of all existence"
       ]
     }
 
